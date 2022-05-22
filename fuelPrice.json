@@ -1,5 +1,6 @@
 [
     {
+        "id" : 001, 
         "name" : "Costo Gas Station",
         "city" : "Scarborough",
         "Address" : "xyz",
@@ -7,6 +8,7 @@
         "PremiumGas" : 215
     },
     {
+        "id" : 002, 
         "name" : "ESSO Gas Station",
         "city" : "Brampton",
         "Address" : "xyz",
